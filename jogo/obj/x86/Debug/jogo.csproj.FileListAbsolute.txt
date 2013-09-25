@@ -1,0 +1,34 @@
+C:\Users\mayara Imaculada da\Documents\IFSP\3modulo\Willian\jogo\jogo\bin\Debug\jogo.exe
+C:\Users\mayara Imaculada da\Documents\IFSP\3modulo\Willian\jogo\jogo\bin\Debug\jogo.pdb
+C:\Users\mayara Imaculada da\Documents\IFSP\3modulo\Willian\jogo\jogo\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\mayara Imaculada da\Documents\IFSP\3modulo\Willian\jogo\jogo\obj\x86\Debug\jogo.certo.resources
+C:\Users\mayara Imaculada da\Documents\IFSP\3modulo\Willian\jogo\jogo\obj\x86\Debug\jogo.Form1.resources
+C:\Users\mayara Imaculada da\Documents\IFSP\3modulo\Willian\jogo\jogo\obj\x86\Debug\jogo.Properties.Resources.resources
+C:\Users\mayara Imaculada da\Documents\IFSP\3modulo\Willian\jogo\jogo\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\mayara Imaculada da\Documents\IFSP\3modulo\Willian\jogo\jogo\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\mayara Imaculada da\Documents\IFSP\3modulo\Willian\jogo\jogo\obj\x86\Debug\jogo.exe
+C:\Users\mayara Imaculada da\Documents\IFSP\3modulo\Willian\jogo\jogo\obj\x86\Debug\jogo.pdb
+C:\Users\mayara Imaculada da\Documents\IFSP\3modulo\Willian\jogo\jogo\obj\x86\Debug\jogo.Errado.resources
+C:\Users\Willian\Desktop\jogo\jogo\obj\x86\Debug\jogo.exe
+C:\Users\Willian\Desktop\jogo\jogo\obj\x86\Debug\jogo.pdb
+C:\Users\Willian\Desktop\jogo\jogo\obj\x86\Debug\jogo.certo.resources
+C:\Users\Willian\Desktop\jogo\jogo\obj\x86\Debug\jogo.Errado.resources
+C:\Users\Willian\Desktop\jogo\jogo\obj\x86\Debug\jogo.Form1.resources
+C:\Users\Willian\Desktop\jogo\jogo\obj\x86\Debug\jogo.Properties.Resources.resources
+C:\Users\Willian\Desktop\jogo\jogo\obj\x86\Debug\jogo.csproj.GenerateResource.Cache
+C:\Users\Willian\Desktop\jogo\jogo\bin\Debug\jogo.exe
+C:\Users\Willian\Desktop\jogo\jogo\bin\Debug\jogo.pdb
+C:\Users\Willian\Desktop\jogo\jogo\obj\x86\Debug\jogo.csprojResolveAssemblyReference.cache
+C:\Users\Willian\Desktop\jogoSOM\jogo\obj\x86\Debug\jogo.exe
+C:\Users\Willian\Desktop\jogoSOM\jogo\obj\x86\Debug\jogo.pdb
+G:\Nova pasta\CURSO TECNICO\3°modulo\PJS-Willian\MaterialDidatico\jogo\jogo\obj\x86\Debug\jogo.exe
+G:\Nova pasta\CURSO TECNICO\3°modulo\PJS-Willian\MaterialDidatico\jogo\jogo\obj\x86\Debug\jogo.pdb
+G:\Nova pasta\CURSO TECNICO\3°modulo\PJS-Willian\MaterialDidatico\jogo\jogo\bin\Debug\jogo.exe
+G:\Nova pasta\CURSO TECNICO\3°modulo\PJS-Willian\MaterialDidatico\jogo\jogo\bin\Debug\jogo.pdb
+G:\Nova pasta\CURSO TECNICO\3°modulo\PJS-Willian\MaterialDidatico\jogo\jogo\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\Nova pasta\CURSO TECNICO\3°modulo\PJS-Willian\MaterialDidatico\jogo\jogo\obj\x86\Debug\jogo.certo.resources
+G:\Nova pasta\CURSO TECNICO\3°modulo\PJS-Willian\MaterialDidatico\jogo\jogo\obj\x86\Debug\jogo.Errado.resources
+G:\Nova pasta\CURSO TECNICO\3°modulo\PJS-Willian\MaterialDidatico\jogo\jogo\obj\x86\Debug\jogo.Form1.resources
+G:\Nova pasta\CURSO TECNICO\3°modulo\PJS-Willian\MaterialDidatico\jogo\jogo\obj\x86\Debug\jogo.Properties.Resources.resources
+G:\Nova pasta\CURSO TECNICO\3°modulo\PJS-Willian\MaterialDidatico\jogo\jogo\obj\x86\Debug\GenerateResource.read.1.tlog
+G:\Nova pasta\CURSO TECNICO\3°modulo\PJS-Willian\MaterialDidatico\jogo\jogo\obj\x86\Debug\GenerateResource.write.1.tlog
